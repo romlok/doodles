@@ -14,3 +14,12 @@ But hey, at least it didn't need Javascript.
 
 License is Creative Commons Attribution 4.0 International:
 https://creativecommons.org/licenses/by/4.0/
+
+
+dcss.svg
+--------
+
+An icon I created in 2010 for use by Dungeon Crawl Stone Soup: https://crawl.develz.org/.
+
+License is Creative Commons Attribution 4.0 International:
+https://creativecommons.org/licenses/by/4.0/
