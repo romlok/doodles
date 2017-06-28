@@ -23,3 +23,14 @@ An icon I created in 2010 for use by Dungeon Crawl Stone Soup: https://crawl.dev
 
 License is Creative Commons Attribution 4.0 International:
 https://creativecommons.org/licenses/by/4.0/
+
+
+winesteam.svg
+-------------
+
+An icon merging the Steam and Wine logos, for when you want to run the Windows version of Steam on a more sensible OS.
+
+Originally made for use by the Lutris project (https://lutris.net), before I found out what kind of icons they were actually looking for.
+
+License is Creative Commons Zero 1.0:
+http://creativecommons.org/publicdomain/zero/1.0/
